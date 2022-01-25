@@ -1,4 +1,8 @@
-# GTFS_ist
-GTFS Data for istanbul public transportation
+# GTFS data model of Istanbul Public Transportation
 
-Data were created in 2014 August. So, it is possible some change on the routes or schedules however mainly it could be useful for many project to develop.
+#### *Project Name : GTFS_ist* 
+#### *Created By   : Oğuz GENÇER*
+#### *Created Date : August 2014*
+
+
+Note: It is possible some change on the routes or schedules however mainly it could be useful for many project to develop.
